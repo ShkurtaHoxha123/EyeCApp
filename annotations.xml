@@ -1,0 +1,5 @@
+<root>
+    <item name='com.estimote.coresdk.observation.region.beacon.BeaconRegion'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
